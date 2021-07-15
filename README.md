@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekBorse122
-- 👀 I’m interested in Web & Android Devlopment.
+- 👀 I’m interested in Web & Android Development.
 - 🌱 I’m currently learning Web Feamworks,Networking,OS and DS 
 
 <!---
